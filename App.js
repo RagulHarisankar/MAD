@@ -1,3 +1,5 @@
+// Reference UI Link: https://dribbble.com/shots/16316303-Login-and-Sign-up-Screens
+
 import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 import { Input, Icon } from '@rneui/themed';
 
